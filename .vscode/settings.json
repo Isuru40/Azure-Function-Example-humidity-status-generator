@@ -1,0 +1,7 @@
+{
+    "azureFunctions.deploySubpath": "target/azure-functions/device-log-20200807104918290",
+    "azureFunctions.projectLanguage": "Java",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "package"
+}
